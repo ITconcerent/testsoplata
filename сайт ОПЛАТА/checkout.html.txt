@@ -1,0 +1,46 @@
+</div>
+                </div>
+            </div>
+            
+            <hr class="section-divider">
+            
+            <!-- Секція Доставка -->
+            <div class="section">
+                <div class="section-header-row">
+                    <div class="section-title">
+                        Доставка
+                        <span class="required-star">*</span>
+                    </div>
+                    <button class="edit-btn">✏️</button>
+                </div>
+                
+                <div class="delivery-options">
+                    <div class="delivery-option">
+                        <input type="radio" id="ukrposhta" name="delivery">
+                        <div class="delivery-info">
+                            <div class="delivery-name">Укрпошта Стандарт — <span class="delivery-price">від 35 ₽</span></div>
+                        </div>
+                    </div>
+                    
+                    <div class="delivery-option">
+                        <input type="radio" id="branch" name="delivery">
+                        <div class="delivery-info">
+                            <div class="delivery-name">У відділення</div>
+                            <div class="delivery-address">
+                                Київ (Київська обл.), 01103, вул. Підвисоцького професора, 10
+                            </div>
+                            <a href="#" class="delivery-conditions">Умови доставки</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Кольорові кнопки -->
+        <div class="action-buttons">
+            <button class="btn btn-primary">Перейти до оплати</button>
+            <button class="btn btn-secondary">Повернутися до кошика</button>
+        </div>
+    </div>
+</body>
+</html>
